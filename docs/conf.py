@@ -58,7 +58,7 @@ html_theme_options = {
 }
 html_logo = "images/zulip-logo.svg"
 html_static_path = ["_static"]
-# tells the copy button to ingnore the $ prompt 
+# tells the copy button to ignore the $ prompt 
 copybutton_prompt_text = r"\$ "
 copybutton_prompt_is_regexp = True
 
